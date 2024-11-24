@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cognitlab
+- 👋 Hi, I’m DK
 - 👀 I’m interested in deep learning of programming concepts, User Design with HTML, CSS
 - 🌱 I’m currently learning Python DSA, Core Python
 - 💞️ I’m looking to collaborate on with you live on Meets, Zoom, Skype etc...
